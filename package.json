@@ -1,0 +1,23 @@
+{
+  "name": "travis-coveralls-setup",
+  "version": "1.0.0",
+  "description": "Travis and coveralls setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test/a*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericdouglas/travis-coveralls-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericdouglas/travis-coveralls-setup/issues"
+  },
+  "homepage": "https://github.com/ericdouglas/travis-coveralls-setup#readme",
+  "devDependencies": {
+    "istanbul": "^0.3.15",
+    "mocha": "^2.2.5"
+  }
+}
