@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ericdouglas/travis-coveralls-setup#readme",
   "devDependencies": {
+    "coveralls": "^2.11.2",
     "istanbul": "^0.3.15",
     "mocha": "^2.2.5"
   }
