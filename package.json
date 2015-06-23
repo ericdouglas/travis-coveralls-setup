@@ -4,7 +4,7 @@
   "description": "Travis and coveralls setup",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha ./test/a*"
+    "test": "./node_modules/mocha/bin/mocha ./test/*"
   },
   "repository": {
     "type": "git",
