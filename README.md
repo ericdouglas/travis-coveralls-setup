@@ -2,4 +2,4 @@
 
 Travis and Coveralls setup
 
-[Original(https://github.com/vkarpov15/fizzbuzz-coverage)
+[Original](https://github.com/vkarpov15/fizzbuzz-coverage)
